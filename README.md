@@ -79,7 +79,7 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 SpaceBoy - spaceboy1112@gmali.com
 
-Project Link: [https://github.com/spaceeeeboy/WifiDucky](https://github.com/spaceeeeboy/WiFi-Ducky)
+Project Link: [https://github.com/spaceeeeboy/WifiDucky](https://github.com/spaceb07/WiFi-Ducky)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
