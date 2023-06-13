@@ -18,6 +18,9 @@ A tool used for HID attacks with ESP32-S2 devices
 
 <!-- About the Project -->
 ## :star2: About the Project
+
+![192 168 1 1_ (1)](https://o.remove.bg/downloads/c495a6cc-1ce2-46db-9c06-26951ccadee0/wemos-s2-mini-esp32-s2-top-600x315w_-_2023-06-13T140837.324-removebg-preview.png)
+
 In this project, we're gonna make a badusb but with esp32
 
 
