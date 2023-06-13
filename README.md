@@ -68,13 +68,6 @@ After uploading the code, Connect to "WifiDucky" with "badusb" password, then he
 ![192 168 1 1_ (1)](https://github.com/spaceeeeboy/Wifi-Ducky/assets/97615989/95a227b3-1617-4f7d-a187-3d3b88518d56)
 
 
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/spaceeeeboy/WifiDucky/graphs/contributors">
-</a>
-
-
 <!-- License -->
 ## :warning: License
 
@@ -84,13 +77,13 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-CiferTech - [@twitter](https://twitter.com/) - CiferTech@gmali.com
+SpaceBoy - spaceboy1112@gmali.com
 
 Project Link: [https://github.com/spaceeeeboy/WifiDucky](https://github.com/spaceeeeboy/WifiDucky)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
 
- - [Poor Man’s 2.4 GHz Scanner](https://forum.arduino.cc/t/poor-mans-2-4-ghz-scanner/54846)
- - [nRF24L01-WiFi-Jammer](https://github.com/hugorezende/nRF24L01-WiFi-Jammer)
+ - [Spacehun Wi-Fi Ducky](https://github.com/spacehuhn/wifi_ducky)
+ - [Seytonic MalDuino](https://github.com/Seytonic/malduino))
 
