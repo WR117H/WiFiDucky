@@ -24,7 +24,7 @@ In this project, we're gonna make a badusb but with esp32
 <!-- Pictures -->
 ### :camera: Pictures
 
-![192 168 1 1_ (1)](https://github.com/spaceeeeboy/Wifi-Ducky/assets/97615989/95a227b3-1617-4f7d-a187-3d3b88518d56)
+
 
 
 <!-- Features -->
@@ -63,7 +63,7 @@ Before uploading the code you need to install the required library in Arduino ID
 
 After uploading the code, Connect to "WifiDucky" with "badusb" password, then head to 192.168.1.1 and the web interface would appear on the screen and you can control the badhsb through the internet
 
-<img src="https://user-images.githubusercontent.com/62047147/206902220-c793003a-2a08-4eb2-8154-6182c203cf49.jpg" alt="screenshot" width="300" height="auto" />
+![192 168 1 1_ (1)](https://github.com/spaceeeeboy/Wifi-Ducky/assets/97615989/95a227b3-1617-4f7d-a187-3d3b88518d56)
 
 
 <!-- Contributing -->
