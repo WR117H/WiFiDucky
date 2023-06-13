@@ -59,7 +59,6 @@ Before uploading the code you need to install the required library in Arduino ID
    
 <!-- Usage -->
 ## :eyes: Usage
-![192 168 1 1_ (1)](https://github.com/spaceeeeboy/Wifi-Ducky/assets/97615989/95a227b3-1617-4f7d-a187-3d3b88518d56
 
 After uploading the code, Connect to "WifiDucky" with "badusb" password, then head to 192.168.1.1 and the web interface would appear on the screen and you can control the badhsb through the internet
 
