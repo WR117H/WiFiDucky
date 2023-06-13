@@ -5,8 +5,8 @@
 #include <stdbool.h>
 #include <string.h>
 USBHIDKeyboard Keyboard;
-const char* ssid = "********";
-const char* password = "********";
+const char* ssid = "WiFi-Ducky";
+const char* password = "badusb";
 const int serverPort = 80;
 
 
