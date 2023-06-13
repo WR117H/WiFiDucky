@@ -18,7 +18,7 @@ A tool used for HID attacks with ESP32-S2 devices
 
 <!-- About the Project -->
 ## :star2: About the Project
-In this project, I build a 2.4GHz scanner/jammer/Channel Analyzer using the nRF24L01.
+In this project, we're gonna make a badusb but with esp32
 
 
 <!-- Pictures -->
@@ -32,49 +32,18 @@ In this project, I build a 2.4GHz scanner/jammer/Channel Analyzer using the nRF2
 <!-- Features -->
 ### :dart: Features
 
-- Scan 2.4Ghz band
-- 2.4Ghz jammer
-- Channel Analyzer
+- BadUsb
+- Controling device from distances away
+- Web Interface
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
 
-We will use Arduino Pro Mini as a processor. Also, an OLED display to show the Menu and desired options. With the nRF24 module, we can execute the features. 
+We will use Wemos S2 Mini because it has esp32 and we can do HID attacks with it
 
-- Arduino Pro Mini
-- nRF24
-- Oled 0.96 SSD1306
-
-<!-- Schematic -->
-### :electric_plug: Schematic
-Make the connections according to the table and schematic below.
-
-* Arduino and nRF24.
-
-| Arduino| nRF24|  
-| ----   | -----|
-| 9  | CE   |
-| 13 | SCK  |
-| 12 | MISO |
-| 10 | CSN  |
-| 11 | MOSI |
-| 3V3 | Vcc |
-| GND | GND |
+- Wemos S2 Mini
 
 
-* Arduino and OLED display.
-
-| Arduino| Oled 0.96|
-| ----   | -----|
-| A5  | SCK |
-| A4 | SDA  |
-| Vin | VDD |
-| GND | GND |
-
- 
-* Complete Schematic
-
-<img src="https://user-images.githubusercontent.com/62047147/206878457-5e729716-5ee7-4f6b-97f5-b45559d7cc2a.png" alt="screenshot" width="800" height="auto" />
 
 
 <!-- Installation -->
@@ -82,12 +51,12 @@ Make the connections according to the table and schematic below.
 
 Before uploading the code you need to install the required library in Arduino IDE. Follow these steps:
 
-- Follow this path Sketch> Include Library> Manage Libraries
-- Search for Adafruit SSD1306
-- Install the library
+- Follow this path File> Prefrences
+- Look for the "Additional Boards Manager URLs"
+- Paste this into it https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 
--Then search for the “GFX” and install it also.
-
+- Now follow this path Sketch > Include Libraries > Manage Libraries
+- Then install esp32 library
 -Also you need "NRF24" library.
    
 <!-- Usage -->
