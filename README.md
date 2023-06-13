@@ -79,11 +79,11 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 SpaceBoy - spaceboy1112@gmali.com
 
-Project Link: [https://github.com/spaceeeeboy/WifiDucky](https://github.com/spaceeeeboy/WifiDucky)
+Project Link: [https://github.com/spaceeeeboy/WifiDucky](https://github.com/spaceeeeboy/WiFi-Ducky)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
 
  - [Spacehun Wi-Fi Ducky](https://github.com/spacehuhn/wifi_ducky)
- - [Seytonic MalDuino](https://github.com/Seytonic/malduino))
+ - [Seytonic MalDuino](https://github.com/Seytonic/malduino)
 
