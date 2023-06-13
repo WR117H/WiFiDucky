@@ -21,7 +21,8 @@ A tool used for HID attacks with ESP32-S2 devices
 
 ![192 168 1 1_ (1)](https://o.remove.bg/downloads/c495a6cc-1ce2-46db-9c06-26951ccadee0/wemos-s2-mini-esp32-s2-top-600x315w_-_2023-06-13T140837.324-removebg-preview.png)
 
-In this project, we're gonna make a badusb but with esp32
+In this project, we're gonna make a badusb but with esp32 and also
+You can upload it even on esp8266 chips
 
 
 <!-- Pictures -->
@@ -63,7 +64,7 @@ Before uploading the code you need to install the required library in Arduino ID
 <!-- Usage -->
 ## :eyes: Usage
 
-After uploading the code, Connect to "WifiDucky" with "badusb" password, then head to 192.168.1.1 and the web interface would appear on the screen and you can control the badhsb through the internet
+After uploading the code, Connect to "WiFi-Ducky" with "badusb" password, then head to 192.168.1.1 and the web interface would appear on the screen and you can control the badhsb through the internet
 
 ![192 168 1 1_ (1)](https://github.com/spaceeeeboy/Wifi-Ducky/assets/97615989/95a227b3-1617-4f7d-a187-3d3b88518d56)
 
