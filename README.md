@@ -71,8 +71,7 @@ After uploading the code, Connect to "WifiDucky" with "badusb" password, then he
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/cifertech/nrfbox/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cifertech/nrfbox" />
+<a href="https://github.com/spaceeeeboy/WifiDucky/graphs/contributors">
 </a>
 
 
@@ -85,9 +84,9 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 <!-- Contact -->
 ## :handshake: Contact
 
-CiferTech - [@twitter](https://twitter.com/cifertech1) - CiferTech@gmali.com
+CiferTech - [@twitter](https://twitter.com/) - CiferTech@gmali.com
 
-Project Link: [https://github.com/cifertech/nRFBox](https://github.com/cifertech/nRFBox)
+Project Link: [https://github.com/spaceeeeboy/WifiDucky](https://github.com/spaceeeeboy/WifiDucky)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements 
