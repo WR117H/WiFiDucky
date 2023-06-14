@@ -25,8 +25,7 @@ In this project, we're gonna make a badusb but with esp32 and also
 You can upload it even on esp8266 chips
 
 
-<!-- Pictures -->
-### :camera: Pictures
+
 
 
 
