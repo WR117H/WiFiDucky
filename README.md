@@ -1,5 +1,5 @@
 # WiFi-Ducky
-In this project, we're gonna use esp32-s2 to preform HID attacks
+
 
 
 
