@@ -1,14 +1,9 @@
 # WiFi-Ducky
 
 
-
-
-## What does this repo do?
-
-
 ![image](https://github.com/freakpunk/WiFi-Ducky/assets/97615989/7191d3be-e2df-4199-a90c-b93777c535b0)
 
-Using WiFiDucky, the ESP32 / WiFi and USB library you can preform HID attacks
+Using WiFiDucky, the ESP32-S2 / WiFi and USB library you can preform HID attacks
 
 
 ## How do I make it?
