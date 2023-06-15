@@ -20,7 +20,7 @@ All you need is an [ESP-32 S2 WiFi microcontroller]()!
 
 
 <!-- Installation -->
-## How to upload code on it?
+## How to upload the code on it?
 
 Before uploading the code you need to install the required library in Arduino IDE. Follow these steps:
 
