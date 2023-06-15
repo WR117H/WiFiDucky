@@ -48,6 +48,22 @@ After uploading the code, Connect to "WiFiDucky" with "WiFiDucky" password, then
 | `REM` | Just discription |
 | `DELAY` | Waiting for a specefic time |
 | `ENTER` | To press ENTER button |
+
+<!-- Examples -->
+## Examples
+
+```
+REM ----EXAMPLE----
+DELAY 500
+GUI r
+DELAY 500
+STRING cmd
+DELAY 500
+ENTER
+DELAY 500
+STRING YOU'RE HACKED
+```
+
 <!-- License -->
 ## License
 
