@@ -1,14 +1,15 @@
 # WiFi-Ducky
-A penetration testing tool used with ESP32-S2 chip
+In this project, we're gonna use esp32-s2 to preform HID attacks
+
 
 
 ## What does this repo do?
-Using WiFiDucky, the ESP32 / WiFi and USB library you can preform HID attacks
+
 
 ![image](https://github.com/freakpunk/WiFi-Ducky/assets/97615989/7191d3be-e2df-4199-a90c-b93777c535b0)
 
-In this project, we're gonna make a badusb but with esp32 and also
-You can upload it even on esp8266 chips
+Using WiFiDucky, the ESP32 / WiFi and USB library you can preform HID attacks
+
 
 ## How do I make it?
 All you need is an [ESP-32 S2 WiFi microcontroller]()!  
