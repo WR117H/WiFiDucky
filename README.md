@@ -7,7 +7,7 @@ Using WiFiDucky, the ESP32-S2 / WiFi and USB library you can preform HID attacks
 
 
 ## How do I make it?
-All you need is an [ESP-32 S2 WiFi microcontroller]()!  
+All you need is an [ESP-32 S2 WiFi microcontroller]()
 
 
 
